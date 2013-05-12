@@ -1,0 +1,16 @@
+{
+    "name": "arron/mandango",
+    "authors": [
+        {
+            "name": "Arron Woods",
+            "email": "me@arronwoods.com"
+        }
+    ],
+    "require": {
+        "mandango/mandango" : "dev-master"
+    },
+    "minimum-stability" : "dev",
+    "autoload": {
+        "psr-0": { "Model\\": "src/" }
+    }
+}
